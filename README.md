@@ -3,20 +3,20 @@
 Welcome to the **Media & Content Metadata Archive**. This repository serves as a public log for web resource indexing.
 
 ## 📡 Latest Content Update
-*Last synchronized: 2026-03-22*
+*Last synchronized: 2026-03-23*
 
 | Entry Title | Research Link | Status |
 | :--- | :--- | :--- |
-| **[MOVIE] STREAM SUB-INDO BLOCKBUSTER IN CINEMA21** | [View Metadata](https://video.vdto.space/stream-sub-indo-blockbuster-cinema21-movie-482-886616) | ✅ Active |
-| **[MOVIE] DOWNLOAD UNCUT FULL-MOVIE IN HOLLYWOOD** | [View Metadata](https://video.vdto.space/download-uncut-full-movie-hollywood-movie-484-659649) | ✅ Active |
-| **[NEWS] GET LATEST TRENDING IN SEOUL** | [View Metadata](https://video.vdto.space/get-latest-trending-seoul-news-479-779162) | ✅ Active |
-| **[VIRAL] STREAM SCANDAL RAW IN TEXAS** | [View Metadata](https://video.vdto.space/stream-scandal-raw-texas-viral-481-516406) | ✅ Active |
-| **[MOVIE] DOWNLOAD HD-QUALITY PREMIERE IN NETFLIX** | [View Metadata](https://video.vdto.space/download-hd-quality-premiere-netflix-movie-477-318348) | ✅ Active |
-| **[VIRAL] STREAM UNSEEN EXCLUSIVE IN CHICAGO** | [View Metadata](https://video.vdto.space/stream-unseen-exclusive-chicago-viral-483-811423) | ✅ Active |
-| **[NEWS] BREAKING INSIDER LATEST IN BERLIN** | [View Metadata](https://video.vdto.space/breaking-insider-latest-berlin-news-476-564058) | ✅ Active |
-| **[NEWS] READ COVERAGE LATEST IN TOKYO** | [View Metadata](https://video.vdto.space/read-coverage-latest-tokyo-news-478-181391) | ✅ Active |
-| **[MOVIE] STREAM SUB-INDO CINEMA IN MARVEL** | [View Metadata](https://video.vdto.space/stream-sub-indo-cinema-marvel-movie-480-809944) | ✅ Active |
-| **[VIRAL] VIEW EXPOSED RAW IN LONDON** | [View Metadata](https://video.vdto.space/view-exposed-raw-london-viral-485-185533) | ✅ Active |
+| **[VIRAL] STREAM SCANDAL TRENDING IN CALIFORNIA** | [View Metadata](https://video.vdto.space/stream-scandal-trending-california-viral-481-996684) | ✅ Active |
+| **[NEWS] UPDATE HEADLINE HOT-TOPIC IN JAKARTA** | [View Metadata](https://video.vdto.space/update-headline-hot-topic-jakarta-news-484-533687) | ✅ Active |
+| **[MOVIE] STREAM TRILOGY CINEMA IN DISNEY** | [View Metadata](https://video.vdto.space/stream-trilogy-cinema-disney-movie-478-265673) | ✅ Active |
+| **[MOVIE] GET CINEMA BLOCKBUSTER IN CINEMA21** | [View Metadata](https://video.vdto.space/get-cinema-blockbuster-cinema21-movie-480-595560) | ✅ Active |
+| **[NEWS] GET VERIFIED TRENDING IN PARIS** | [View Metadata](https://video.vdto.space/get-verified-trending-paris-news-482-605965) | ✅ Active |
+| **[VIRAL] STREAM TRENDING UNSEEN IN VEGAS** | [View Metadata](https://video.vdto.space/stream-trending-unseen-vegas-viral-483-729073) | ✅ Active |
+| **[NEWS] BREAKING INSIDER BREAKING IN NEW-YORK** | [View Metadata](https://video.vdto.space/breaking-insider-breaking-new-york-news-476-658942) | ✅ Active |
+| **[VIRAL] STREAM EXCLUSIVE HOT IN VEGAS** | [View Metadata](https://video.vdto.space/stream-exclusive-hot-vegas-viral-477-685537) | ✅ Active |
+| **[VIRAL] STREAM UNSEEN LEAKED IN VEGAS** | [View Metadata](https://video.vdto.space/stream-unseen-leaked-vegas-viral-479-709521) | ✅ Active |
+| **[VIRAL] CHECK BREAKING RAW IN LONDON** | [View Metadata](https://video.vdto.space/check-breaking-raw-london-viral-485-236867) | ✅ Active |
 
 ## 🗺️ Sitemap
 * **Master Sitemap:** [https://video.vdto.space/sitemap.xml](https://video.vdto.space/sitemap.xml)
