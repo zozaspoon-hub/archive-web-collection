@@ -7,16 +7,16 @@ Welcome to the **Media & Content Metadata Archive**. This repository serves as a
 
 | Entry Title | Research Link | Status |
 | :--- | :--- | :--- |
-| **[VIRAL] VIEW BREAKING LEAKED IN TEXAS** | [View Metadata](https://video.vdto.space/view-breaking-leaked-texas-viral-481-840062) | ✅ Active |
-| **[NEWS] UPDATE COVERAGE HEADLINE IN JAKARTA** | [View Metadata](https://video.vdto.space/update-coverage-headline-jakarta-news-484-191957) | ✅ Active |
-| **[NEWS] UPDATE TRENDING HEADLINE IN JAKARTA** | [View Metadata](https://video.vdto.space/update-trending-headline-jakarta-news-478-190911) | ✅ Active |
-| **[VIRAL] VIEW UNSEEN TRENDING IN VEGAS** | [View Metadata](https://video.vdto.space/view-unseen-trending-vegas-viral-480-621233) | ✅ Active |
-| **[VIRAL] WATCH EXCLUSIVE EXPOSED IN TEXAS** | [View Metadata](https://video.vdto.space/watch-exclusive-exposed-texas-viral-482-402594) | ✅ Active |
-| **[MOVIE] GET HD-QUALITY CINEMA IN NETFLIX** | [View Metadata](https://video.vdto.space/get-hd-quality-cinema-netflix-movie-483-903612) | ✅ Active |
-| **[MOVIE] WATCH HD-QUALITY SUB-INDO IN HOLLYWOOD** | [View Metadata](https://video.vdto.space/watch-hd-quality-sub-indo-hollywood-movie-476-837494) | ✅ Active |
-| **[MOVIE] STREAM HD-QUALITY FULL-MOVIE IN CINEMA21** | [View Metadata](https://video.vdto.space/stream-hd-quality-full-movie-cinema21-movie-477-842849) | ✅ Active |
-| **[VIRAL] WATCH VIRAL EXPOSED IN VEGAS** | [View Metadata](https://video.vdto.space/watch-viral-exposed-vegas-viral-479-418499) | ✅ Active |
-| **[VIRAL] WATCH LEAKED RAW IN TEXAS** | [View Metadata](https://video.vdto.space/watch-leaked-raw-texas-viral-485-936973) | ✅ Active |
+| **[VIRAL] CHECK LEAKED LEAKED IN MIAMI** | [View Metadata](https://video.vdto.space/check-leaked-leaked-miami-viral-481-102841) | ✅ Active |
+| **[NEWS] UPDATE COVERAGE TRENDING IN PARIS** | [View Metadata](https://video.vdto.space/update-coverage-trending-paris-news-484-568702) | ✅ Active |
+| **[NEWS] GET HEADLINE BREAKING IN NEW-YORK** | [View Metadata](https://video.vdto.space/get-headline-breaking-new-york-news-478-289859) | ✅ Active |
+| **[NEWS] READ TRENDING BREAKING IN JAKARTA** | [View Metadata](https://video.vdto.space/read-trending-breaking-jakarta-news-480-558515) | ✅ Active |
+| **[NEWS] BREAKING HOT-TOPIC LATEST IN TOKYO** | [View Metadata](https://video.vdto.space/breaking-hot-topic-latest-tokyo-news-482-249953) | ✅ Active |
+| **[VIRAL] CHECK BREAKING HOT IN CHICAGO** | [View Metadata](https://video.vdto.space/check-breaking-hot-chicago-viral-483-991092) | ✅ Active |
+| **[NEWS] UPDATE HEADLINE COVERAGE IN SEOUL** | [View Metadata](https://video.vdto.space/update-headline-coverage-seoul-news-476-680369) | ✅ Active |
+| **[VIRAL] VIEW HOT EXPOSED IN VEGAS** | [View Metadata](https://video.vdto.space/view-hot-exposed-vegas-viral-477-958966) | ✅ Active |
+| **[NEWS] BREAKING TRENDING LATEST IN NEW-YORK** | [View Metadata](https://video.vdto.space/breaking-trending-latest-new-york-news-479-309427) | ✅ Active |
+| **[MOVIE] GET UNCUT SUB-INDO IN NETFLIX** | [View Metadata](https://video.vdto.space/get-uncut-sub-indo-netflix-movie-485-633258) | ✅ Active |
 
 ## 🗺️ Sitemap
 * **Master Sitemap:** [https://video.vdto.space/sitemap.xml](https://video.vdto.space/sitemap.xml)
