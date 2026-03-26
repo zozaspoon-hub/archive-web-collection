@@ -3,20 +3,20 @@
 Welcome to the **Media & Content Metadata Archive**. This repository serves as a public log for web resource indexing.
 
 ## 📡 Latest Content Update
-*Last synchronized: 2026-03-25*
+*Last synchronized: 2026-03-26*
 
 | Entry Title | Research Link | Status |
 | :--- | :--- | :--- |
-| **[VIRAL] STREAM UNSEEN UNSEEN IN VEGAS** | [View Metadata](https://video.vdto.space/stream-unseen-unseen-vegas-viral-481-757772) | ✅ Active |
-| **[VIRAL] VIEW LEAKED SCANDAL IN MIAMI** | [View Metadata](https://video.vdto.space/view-leaked-scandal-miami-viral-484-397463) | ✅ Active |
-| **[VIRAL] CHECK UNSEEN TRENDING IN TEXAS** | [View Metadata](https://video.vdto.space/check-unseen-trending-texas-viral-478-286291) | ✅ Active |
-| **[NEWS] UPDATE HOT-TOPIC HEADLINE IN TOKYO** | [View Metadata](https://video.vdto.space/update-hot-topic-headline-tokyo-news-480-251049) | ✅ Active |
-| **[NEWS] GET TRENDING BREAKING IN JAKARTA** | [View Metadata](https://video.vdto.space/get-trending-breaking-jakarta-news-482-558539) | ✅ Active |
-| **[MOVIE] STREAM TRILOGY SUB-INDO IN HOLLYWOOD** | [View Metadata](https://video.vdto.space/stream-trilogy-sub-indo-hollywood-movie-483-363772) | ✅ Active |
-| **[VIRAL] CHECK TRENDING EXCLUSIVE IN MIAMI** | [View Metadata](https://video.vdto.space/check-trending-exclusive-miami-viral-476-342165) | ✅ Active |
-| **[NEWS] UPDATE INSIDER INSIDER IN JAKARTA** | [View Metadata](https://video.vdto.space/update-insider-insider-jakarta-news-477-230683) | ✅ Active |
-| **[NEWS] GET VERIFIED HOT-TOPIC IN BERLIN** | [View Metadata](https://video.vdto.space/get-verified-hot-topic-berlin-news-479-421594) | ✅ Active |
-| **[MOVIE] DOWNLOAD TRILOGY TRILOGY IN DISNEY** | [View Metadata](https://video.vdto.space/download-trilogy-trilogy-disney-movie-485-573797) | ✅ Active |
+| **[VIRAL] VIEW BREAKING LEAKED IN TEXAS** | [View Metadata](https://video.vdto.space/view-breaking-leaked-texas-viral-481-840062) | ✅ Active |
+| **[NEWS] UPDATE COVERAGE HEADLINE IN JAKARTA** | [View Metadata](https://video.vdto.space/update-coverage-headline-jakarta-news-484-191957) | ✅ Active |
+| **[NEWS] UPDATE TRENDING HEADLINE IN JAKARTA** | [View Metadata](https://video.vdto.space/update-trending-headline-jakarta-news-478-190911) | ✅ Active |
+| **[VIRAL] VIEW UNSEEN TRENDING IN VEGAS** | [View Metadata](https://video.vdto.space/view-unseen-trending-vegas-viral-480-621233) | ✅ Active |
+| **[VIRAL] WATCH EXCLUSIVE EXPOSED IN TEXAS** | [View Metadata](https://video.vdto.space/watch-exclusive-exposed-texas-viral-482-402594) | ✅ Active |
+| **[MOVIE] GET HD-QUALITY CINEMA IN NETFLIX** | [View Metadata](https://video.vdto.space/get-hd-quality-cinema-netflix-movie-483-903612) | ✅ Active |
+| **[MOVIE] WATCH HD-QUALITY SUB-INDO IN HOLLYWOOD** | [View Metadata](https://video.vdto.space/watch-hd-quality-sub-indo-hollywood-movie-476-837494) | ✅ Active |
+| **[MOVIE] STREAM HD-QUALITY FULL-MOVIE IN CINEMA21** | [View Metadata](https://video.vdto.space/stream-hd-quality-full-movie-cinema21-movie-477-842849) | ✅ Active |
+| **[VIRAL] WATCH VIRAL EXPOSED IN VEGAS** | [View Metadata](https://video.vdto.space/watch-viral-exposed-vegas-viral-479-418499) | ✅ Active |
+| **[VIRAL] WATCH LEAKED RAW IN TEXAS** | [View Metadata](https://video.vdto.space/watch-leaked-raw-texas-viral-485-936973) | ✅ Active |
 
 ## 🗺️ Sitemap
 * **Master Sitemap:** [https://video.vdto.space/sitemap.xml](https://video.vdto.space/sitemap.xml)
